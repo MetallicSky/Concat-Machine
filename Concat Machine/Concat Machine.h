@@ -4,5 +4,11 @@
 #pragma once
 
 #include <iostream>
+#include <filesystem>
+
+using std::cout;
+using std::cerr;
+using std::endl;
+using std::string;
 
 // TODO: установите здесь ссылки на дополнительные заголовки, требующиеся для программы.
